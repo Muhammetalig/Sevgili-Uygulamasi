@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/9877adad-c0fb-4136-8c8b-c472fc9de9ab
 	•	Google Fonts Paketi (google_fonts)
 	•	intl Paketi (intl)
  📲 Kurulum
-Depoyu klonlayın: git clone https://github.com/kullanici_adi/askima-ozel.git
+Depoyu klonlayın: git clone https://github.com/Muhammetalig/askima-ozel.git
 
 Paketleri yükleyin: flutter pub get
 
