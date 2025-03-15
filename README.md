@@ -15,12 +15,12 @@ https://github.com/user-attachments/assets/9877adad-c0fb-4136-8c8b-c472fc9de9ab
 	•	💡 Karar Verme Ekranı: Karar vermenize yardımcı olacak özel bir ekran (DecisionScreen).
 	•	🌈 Kişisel Tasarım: Lobster yazı tipi ve hoş bir pembe tonuyla romantik bir tema sunar.
 
-📦 Gereksinimler
+📦 Gereksinimler:
 	•	Flutter SDK
 	•	Dart
 	•	Google Fonts Paketi (google_fonts)
 	•	intl Paketi (intl)
- 📲 Kurulum
+ 📲 Kurulum:
 Depoyu klonlayın: git clone https://github.com/Muhammetalig/askima-ozel.git
 
 Paketleri yükleyin: flutter pub get
