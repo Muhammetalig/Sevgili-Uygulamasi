@@ -1,6 +1,6 @@
 💖 Aşkıma Özel
 
-Aşkıma Özel sevgilinize özel olarak tasarlanmış, ilişkinizi hatırlatacak ve güzelleştirecek bir Flutter uygulamasıdır. Uygulama, ilişkinizin başlangıcından itibaren geçen süreyi gösterir ve 30 dakikalık bir geri sayım başlatarak anı güzelleştirir. Ayrıca gün değerlendirme ve karar verme ekranları da bulunmaktadır.
+Aşkıma Özel sevgilinize özel olarak tasarlanmış, ilişkinizi hatırlatacak ve güzelleştirecek bir Flutter uygulamasıdır. Uygulamam ilişkinizin başlangıcından itibaren geçen süreyi gösterir ve 30 dakikalık bir geri sayım başlatarak anı güzelleştirir. Ayrıca gün değerlendirme ve karar verme ekranları da bulunmaktadır.
 
 📸 Ekran Görüntüleri:
 
