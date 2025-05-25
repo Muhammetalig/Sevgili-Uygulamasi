@@ -28,7 +28,7 @@ Paketleri yükleyin: flutter pub get
 Uygulamayı çalıştırın:flutter run
 
 📁 Paketler:
-Bu uygulama şu paketleri kullanır:
+Bu uygulama şu paketleri kullanır
 
 google_fonts: Yazı tipi düzenlemesi için.
 intl: Tarih formatlama işlemleri için.
