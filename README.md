@@ -27,7 +27,7 @@ Paketleri yükleyin: flutter pub get
 
 Uygulamayı çalıştırın:flutter run
 
-📁 Paketler:
+📁 Paketler
 Bu uygulama şu paketleri kullanır
 
 google_fonts: Yazı tipi düzenlemesi için.
