@@ -32,7 +32,7 @@ Bu uygulama şu paketleri kullanır
 
 google_fonts: Yazı tipi düzenlemesi için.
 intl: Tarih formatlama işlemleri için.
-📌 Kullanım:
+📌 Kullanım
 Uygulama, ilişkinizin başlangıç tarihini (25 Nisan 2024) temel alarak süreyi hesaplar. İsteğe bağlı olarak başlangıç tarihini değiştirebilirsiniz.
 Geri sayım butonları: Başlat, Durdur ve Sıfırla butonlarıyla geri sayım işlemlerini kontrol edebilirsiniz.
 Ekran geçişleri: Gün Değerlendirme ve Karar Verme ekranlarına butonlarla geçiş yapılabilir.
